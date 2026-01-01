@@ -40,6 +40,18 @@
       "created_at": "2026-01-01T14:27:47.009284",
       "used_by": null,
       "used_at": null
+    },
+    {
+      "key": "ZEXXY-XMKU-2MXZ-LCFT",
+      "duration_days": 30,
+      "status": "UNUSED",
+      "note": "Generated",
+      "type": "USER",
+      "created_at": "2026-01-01T11:00:22.353Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": false,
+      "reusable": false
     }
   ],
   "broadcasts": [
