@@ -84,6 +84,30 @@
       "used_at": null,
       "universal_hwid": true,
       "reusable": false
+    },
+    {
+      "key": "ZEXXY-GD22-H9T6-NRAL",
+      "duration_days": 7,
+      "status": "UNUSED",
+      "note": "MultiDevice",
+      "type": "USER",
+      "created_at": "2026-01-01T11:30:46.814Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": true,
+      "reusable": false
+    },
+    {
+      "key": "ZEXXY-END0-FAL6-3FLT",
+      "duration_days": 7,
+      "status": "UNUSED",
+      "note": "MultiDevice",
+      "type": "USER",
+      "created_at": "2026-01-01T11:30:46.814Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": true,
+      "reusable": false
     }
   ],
   "broadcasts": [
