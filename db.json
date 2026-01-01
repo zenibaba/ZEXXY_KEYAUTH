@@ -116,6 +116,15 @@
       "link": null,
       "created_at": "2026-01-01T11:30:45.615Z",
       "active": true
+    },
+    {
+      "id": "BR-539752",
+      "title": "Notification",
+      "message": "HELLO TEST ZENI",
+      "target": "ALL",
+      "link": null,
+      "created_at": "2026-01-01T11:57:00.956Z",
+      "active": true
     }
   ]
 }
