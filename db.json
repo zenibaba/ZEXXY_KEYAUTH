@@ -324,6 +324,18 @@
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
+    },
+    {
+      "key": "ZEXXY-E8NK-6WON-01CJ",
+      "duration_days": 7,
+      "status": "UNUSED",
+      "note": "FastGen",
+      "type": "USER",
+      "created_at": "2026-01-01T17:40:13.207Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": false,
+      "reusable": false
     }
   ],
   "broadcasts": [
