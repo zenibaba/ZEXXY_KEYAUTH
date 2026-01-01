@@ -41,5 +41,16 @@
       "used_by": null,
       "used_at": null
     }
+  ],
+  "broadcasts": [
+    {
+      "id": "BR-931622",
+      "title": "System Notification",
+      "message": "HELLO",
+      "target": "ALL",
+      "link": null,
+      "created_at": "2026-01-01T15:05:17.026778",
+      "active": true
+    }
   ]
 }
