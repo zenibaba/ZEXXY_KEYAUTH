@@ -62,18 +62,6 @@
       "reusable": false
     },
     {
-      "key": "ZEXXY-Z4NR-UH3X-DKX6",
-      "duration_days": 7,
-      "status": "USED",
-      "note": "MultiDevice",
-      "type": "USER",
-      "created_at": "2026-01-01T11:12:52.894Z",
-      "used_by": "KAJU",
-      "used_at": null,
-      "universal_hwid": true,
-      "reusable": false
-    },
-    {
       "key": "ZEXXY-3PG0-NCJQ-UF4S",
       "duration_days": 7,
       "status": "UNUSED",
