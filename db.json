@@ -168,6 +168,18 @@
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
+    },
+    {
+      "key": "ZEXXY-JK19-PW1D-86FU",
+      "duration_days": 7,
+      "status": "UNUSED",
+      "note": "FastGen",
+      "type": "USER",
+      "created_at": "2026-01-01T17:39:43.937Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": false,
+      "reusable": false
     }
   ],
   "broadcasts": [
