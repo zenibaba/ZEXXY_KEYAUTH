@@ -1,1 +1,25 @@
-
+{
+  "users": [
+    {
+      "username": "ZENI",
+      "password": "ZENI",
+      "hwid": "RESET",
+      "expiry": 9999999999999,
+      "rank": "OWNER",
+      "status": "ACTIVE",
+      "activated_at": "2026-01-01T14:15:08.143806"
+    }
+  ],
+  "keys": [
+    {
+      "key": "ZENI-OWNR-KEY-123",
+      "duration_days": "LIFETIME",
+      "status": "UNUSED",
+      "note": "Initial Owner Key",
+      "type": "OWNER",
+      "created_at": "2026-01-01T14:15:08.143843",
+      "used_by": null,
+      "used_at": null
+    }
+  ]
+}
