@@ -104,6 +104,14 @@
       "expiry": 1767940466375,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "Vishnu ",
+      "password": "123456",
+      "hwid": "ZDPLAF0XVNOPDS1459BM08FU1A2A1XX0",
+      "expiry": 1767596707755,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -224,11 +232,11 @@
     {
       "key": "ZEXXY-1DIE-OIO4-QO8Y",
       "duration_days": 3,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "FastGen",
       "type": "USER",
       "created_at": "2026-01-01T13:24:34.173Z",
-      "used_by": null,
+      "used_by": "Vishnu ",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
