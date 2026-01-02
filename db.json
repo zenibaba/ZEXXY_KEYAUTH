@@ -88,6 +88,14 @@
       "expiry": 9999999999999,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "Beast",
+      "password": "Beastjod",
+      "hwid": "ATQBTEQ2TPK7F6NO5U6RXA61BGV9EXEE",
+      "expiry": 9999999999999,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -484,11 +492,11 @@
     {
       "key": "ZEXXY-2ZFH-J7EY-169Z",
       "duration_days": "LIFETIME",
-      "status": "UNUSED",
+      "status": "USED",
       "note": "Zex",
       "type": "USER",
       "created_at": "2026-01-02T06:22:48.974Z",
-      "used_by": null,
+      "used_by": "Beast",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
