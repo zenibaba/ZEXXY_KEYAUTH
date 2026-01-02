@@ -112,6 +112,14 @@
       "expiry": 1767596707755,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "mahir",
+      "password": "MAHIR1122@",
+      "hwid": "9MCJMKKU92RW1UY3QL70OJZEVAQ1N1IY",
+      "expiry": 1767942577442,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -328,11 +336,11 @@
     {
       "key": "ZEXXY-IDXC-Q6U9-R82E",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "FastGen",
       "type": "USER",
       "created_at": "2026-01-01T17:39:56.541Z",
-      "used_by": null,
+      "used_by": "mahir",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
