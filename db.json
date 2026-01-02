@@ -56,6 +56,14 @@
       "expiry": 1767934521390,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "mdsamiralam90",
+      "password": "78678612ss",
+      "hwid": "KNIUJRARW4FBY3ILQH3NUHPAYFTHAP5F",
+      "expiry": 1767934719906,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -236,11 +244,11 @@
     {
       "key": "ZEXXY-JKNQ-WD9Q-FK3G",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "FastGen",
       "type": "USER",
       "created_at": "2026-01-01T17:39:49.427Z",
-      "used_by": null,
+      "used_by": "mdsamiralam90",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
