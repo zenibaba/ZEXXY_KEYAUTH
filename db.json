@@ -48,6 +48,14 @@
       "expiry": 1767934465608,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "shahnil ",
+      "password": "raza",
+      "hwid": "UQF2ZGTD47XEQZNRNUNC9WWKY4ISBC98",
+      "expiry": 1767934521390,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -216,11 +224,11 @@
     {
       "key": "ZEXXY-CCBY-CK2Y-D897",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "FastGen",
       "type": "USER",
       "created_at": "2026-01-01T17:39:46.645Z",
-      "used_by": null,
+      "used_by": "shahnil ",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
