@@ -152,6 +152,14 @@
       "expiry": 1767947901121,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "7541024585",
+      "password": "suraj98kr",
+      "hwid": "Q8I1HXUTR3T4Q19I5ANK8PGWTEIX1A6V",
+      "expiry": 1767948097361,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -308,11 +316,11 @@
     {
       "key": "ZEXXY-JK19-PW1D-86FU",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "FastGen",
       "type": "USER",
       "created_at": "2026-01-01T17:39:43.937Z",
-      "used_by": null,
+      "used_by": "7541024585",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
