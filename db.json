@@ -72,6 +72,14 @@
       "expiry": 1767935916153,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "XR7RAKESH",
+      "password": "XR7RAKESH",
+      "hwid": "ICE3AB23VG46K1I899LUWEPQ0TMTJ15Z",
+      "expiry": 1767938123999,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -156,11 +164,11 @@
     {
       "key": "ZEXXY-IZ95-OT9K-XR4T",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "Reusable",
       "type": "USER",
       "created_at": "2026-01-01T11:58:01.565Z",
-      "used_by": null,
+      "used_by": "XR7RAKESH",
       "used_at": null,
       "universal_hwid": false,
       "reusable": true
