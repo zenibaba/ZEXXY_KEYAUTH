@@ -435,6 +435,19 @@
       "note": "MASTER",
       "createdBy": "FAIZU",
       "created_at": "2026-01-02T09:16:37.488Z"
+    },
+    {
+      "key": "ZEXXY-5TR0-SQ7X-01D3",
+      "duration_days": 1825,
+      "status": "UNUSED",
+      "note": "OWNER TEST",
+      "type": "ADMIN",
+      "createdBy": "DENZI",
+      "created_at": "2026-01-02T09:57:11.305Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": false,
+      "reusable": false
     }
   ],
   "broadcasts": [
