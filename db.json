@@ -16,6 +16,14 @@
       "expiry": 1767870991981,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "SAIDUL_BHAI",
+      "password": "Saidul_bhai",
+      "hwid": "BBWT4XJFYL4U2YZK735G8ZNW978NV1ZL",
+      "expiry": 1767933395827,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -328,11 +336,11 @@
     {
       "key": "ZEXXY-E8NK-6WON-01CJ",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "FastGen",
       "type": "USER",
       "created_at": "2026-01-01T17:40:13.207Z",
-      "used_by": null,
+      "used_by": "SAIDUL_BHAI",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
