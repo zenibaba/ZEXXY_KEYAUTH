@@ -189,48 +189,6 @@
   ],
   "keys": [
     {
-      "key": "ZENI-OWNR-KEY-123",
-      "duration_days": "LIFETIME",
-      "status": "UNUSED",
-      "note": "Initial Owner Key",
-      "type": "OWNER",
-      "created_at": "2026-01-01T14:15:08.143843",
-      "used_by": null,
-      "used_at": null
-    },
-    {
-      "key": "ZEXXY-PNSCD5ZU1F1EKG1LDVL0",
-      "duration_days": 1,
-      "status": "UNUSED",
-      "note": "TEST",
-      "type": "USER",
-      "created_at": "2026-01-01T14:27:47.009217",
-      "used_by": null,
-      "used_at": null
-    },
-    {
-      "key": "ZEXXY-1KCSNFY476XHUAB5WFUP",
-      "duration_days": 1,
-      "status": "UNUSED",
-      "note": "TEST",
-      "type": "USER",
-      "created_at": "2026-01-01T14:27:47.009284",
-      "used_by": null,
-      "used_at": null
-    },
-    {
-      "key": "ZEXXY-XMKU-2MXZ-LCFT",
-      "duration_days": 30,
-      "status": "UNUSED",
-      "note": "Generated",
-      "type": "USER",
-      "created_at": "2026-01-01T11:00:22.353Z",
-      "used_by": null,
-      "used_at": null,
-      "universal_hwid": false,
-      "reusable": false
-    },
-    {
       "key": "ZEXXY-3PG0-NCJQ-UF4S",
       "duration_days": 7,
       "status": "USED",
@@ -255,18 +213,6 @@
       "reusable": false
     },
     {
-      "key": "ZEXXY-END0-FAL6-3FLT",
-      "duration_days": 7,
-      "status": "UNUSED",
-      "note": "MultiDevice",
-      "type": "USER",
-      "created_at": "2026-01-01T11:30:46.814Z",
-      "used_by": null,
-      "used_at": null,
-      "universal_hwid": true,
-      "reusable": false
-    },
-    {
       "key": "ZEXXY-IZ95-OT9K-XR4T",
       "duration_days": 7,
       "status": "USED",
@@ -274,18 +220,6 @@
       "type": "USER",
       "created_at": "2026-01-01T11:58:01.565Z",
       "used_by": "XR7RAKESH",
-      "used_at": null,
-      "universal_hwid": false,
-      "reusable": true
-    },
-    {
-      "key": "ZEXXY-LXRR-4YB9-C3XY",
-      "duration_days": 7,
-      "status": "UNUSED",
-      "note": "Reusable",
-      "type": "USER",
-      "created_at": "2026-01-01T11:58:01.565Z",
-      "used_by": null,
       "used_at": null,
       "universal_hwid": false,
       "reusable": true
@@ -310,30 +244,6 @@
       "type": "USER",
       "created_at": "2026-01-01T13:24:34.173Z",
       "used_by": "Vishnu ",
-      "used_at": null,
-      "universal_hwid": false,
-      "reusable": false
-    },
-    {
-      "key": "ZEXXY-1LJX-B0HZ-6ARR",
-      "duration_days": 30,
-      "status": "UNUSED",
-      "note": "FastGen",
-      "type": "USER",
-      "created_at": "2026-01-01T17:36:52.475Z",
-      "used_by": null,
-      "used_at": null,
-      "universal_hwid": false,
-      "reusable": false
-    },
-    {
-      "key": "ZEXXY-03SS-TKIZ-FBV6",
-      "duration_days": 7,
-      "status": "UNUSED",
-      "note": "FastGen",
-      "type": "USER",
-      "created_at": "2026-01-01T17:38:14.307Z",
-      "used_by": null,
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
@@ -387,18 +297,6 @@
       "reusable": false
     },
     {
-      "key": "ZEXXY-2PRT-PM2B-J1NS",
-      "duration_days": 7,
-      "status": "UNUSED",
-      "note": "FastGen",
-      "type": "USER",
-      "created_at": "2026-01-01T17:39:53.854Z",
-      "used_by": null,
-      "used_at": null,
-      "universal_hwid": false,
-      "reusable": false
-    },
-    {
       "key": "ZEXXY-IDXC-Q6U9-R82E",
       "duration_days": 7,
       "status": "USED",
@@ -406,42 +304,6 @@
       "type": "USER",
       "created_at": "2026-01-01T17:39:56.541Z",
       "used_by": "mahir",
-      "used_at": null,
-      "universal_hwid": false,
-      "reusable": false
-    },
-    {
-      "key": "ZEXXY-JHJ7-GTN4-CEB4",
-      "duration_days": 7,
-      "status": "UNUSED",
-      "note": "FastGen",
-      "type": "USER",
-      "created_at": "2026-01-01T17:39:59.326Z",
-      "used_by": null,
-      "used_at": null,
-      "universal_hwid": false,
-      "reusable": false
-    },
-    {
-      "key": "ZEXXY-4I5O-J85Y-9INL",
-      "duration_days": 7,
-      "status": "UNUSED",
-      "note": "FastGen",
-      "type": "USER",
-      "created_at": "2026-01-01T17:40:02.108Z",
-      "used_by": null,
-      "used_at": null,
-      "universal_hwid": false,
-      "reusable": false
-    },
-    {
-      "key": "ZEXXY-N46Q-IXHR-BLH0",
-      "duration_days": 7,
-      "status": "UNUSED",
-      "note": "FastGen",
-      "type": "USER",
-      "created_at": "2026-01-01T17:40:04.021Z",
-      "used_by": null,
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
@@ -478,18 +340,6 @@
       "type": "USER",
       "created_at": "2026-01-01T17:40:09.762Z",
       "used_by": "jabraat",
-      "used_at": null,
-      "universal_hwid": false,
-      "reusable": false
-    },
-    {
-      "key": "ZEXXY-LO80-9BHP-ONR2",
-      "duration_days": 7,
-      "status": "UNUSED",
-      "note": "FastGen",
-      "type": "USER",
-      "created_at": "2026-01-01T17:40:11.411Z",
-      "used_by": null,
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
@@ -543,30 +393,6 @@
       "reusable": false
     },
     {
-      "key": "ZEXXY-F17G-72WG-IUOK",
-      "duration_days": 3,
-      "status": "UNUSED",
-      "note": "Promo",
-      "type": "USER",
-      "created_at": "2026-01-02T04:36:34.023Z",
-      "used_by": null,
-      "used_at": null,
-      "universal_hwid": false,
-      "reusable": false
-    },
-    {
-      "key": "ZEXXY-CH4J-XDQ7-C77E",
-      "duration_days": 3,
-      "status": "UNUSED",
-      "note": "Promo",
-      "type": "USER",
-      "created_at": "2026-01-02T04:36:34.023Z",
-      "used_by": null,
-      "used_at": null,
-      "universal_hwid": false,
-      "reusable": false
-    },
-    {
       "key": "ZEXXY-GTZR-TBE3-JTNT",
       "duration_days": "LIFETIME",
       "status": "USED",
@@ -601,13 +427,6 @@
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
-    },
-    {
-      "key": "A1AJ-G17U-KDJN-NWD4",
-      "duration_days": 1,
-      "status": "UNUSED",
-      "createdBy": "FAIZU",
-      "created_at": "2026-01-02T08:49:16.474Z"
     }
   ],
   "broadcasts": [
