@@ -24,6 +24,14 @@
       "expiry": 1767933395827,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "Thomas ",
+      "password": "Aa4802117",
+      "hwid": "EPMUCC5G2294XGWMX95CWUN1LD8B8LWW",
+      "expiry": 1767933381625,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -288,11 +296,11 @@
     {
       "key": "ZEXXY-MWYY-BHYB-ORKT",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "FastGen",
       "type": "USER",
       "created_at": "2026-01-01T17:40:05.848Z",
-      "used_by": null,
+      "used_by": "Thomas ",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
