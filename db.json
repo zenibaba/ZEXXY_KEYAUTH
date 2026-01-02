@@ -451,6 +451,15 @@
       "link": null,
       "created_at": "2026-01-02T09:12:01.140Z",
       "active": false
+    },
+    {
+      "id": "BR-751944",
+      "title": "SORRY FOR ISSUE PLEASE UPDATE APK ",
+      "message": "THEIR WAS SOME API ERRO KEY REMOVED SO PLEASE UPDATE THE APP \n",
+      "target": "ALL",
+      "link": null,
+      "created_at": "2026-01-02T11:34:03.483Z",
+      "active": true
     }
   ]
 }
