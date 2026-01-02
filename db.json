@@ -40,6 +40,14 @@
       "expiry": 1767934317526,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "1",
+      "password": "1",
+      "hwid": "LC76YRM1SX91YE05FNZ73APK29WTLU42",
+      "expiry": 1767934465608,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -388,11 +396,11 @@
     {
       "key": "ZEXXY-RZW6-YLT8-RETP",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "FastGen",
       "type": "USER",
       "created_at": "2026-01-01T17:40:18.448Z",
-      "used_by": null,
+      "used_by": "1",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
