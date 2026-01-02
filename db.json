@@ -175,7 +175,7 @@
       "hwid": "RESELLER_DEVICE",
       "expiry": 0,
       "rank": "RESELLER",
-      "credits": 1000,
+      "credits": 999,
       "status": "ACTIVE"
     }
   ],
@@ -593,6 +593,13 @@
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
+    },
+    {
+      "key": "A1AJ-G17U-KDJN-NWD4",
+      "duration_days": 1,
+      "status": "UNUSED",
+      "createdBy": "FAIZU",
+      "created_at": "2026-01-02T08:49:16.474Z"
     }
   ],
   "broadcasts": [
