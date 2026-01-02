@@ -32,6 +32,14 @@
       "expiry": 1767933381625,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "Manskxc7",
+      "password": "riwedsssss56",
+      "hwid": "G3S9PMO293P44OH8OXQIXXWZASSIY0TJ",
+      "expiry": 1767934317526,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -368,11 +376,11 @@
     {
       "key": "ZEXXY-3EHL-0Y2F-OLBA",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "FastGen",
       "type": "USER",
       "created_at": "2026-01-01T17:40:16.761Z",
-      "used_by": null,
+      "used_by": "Manskxc7",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
