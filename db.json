@@ -177,6 +177,14 @@
       "rank": "RESELLER",
       "credits": 999,
       "status": "ACTIVE"
+    },
+    {
+      "username": "huzefashk778",
+      "password": "7865",
+      "hwid": "BMW4B32K5P348V5ZROKEAAB9RQXDC4QM",
+      "expiry": 1767948852791,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -285,11 +293,11 @@
     {
       "key": "ZEXXY-IOWM-AGXP-VDCG",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "Reusable",
       "type": "USER",
       "created_at": "2026-01-01T11:58:01.565Z",
-      "used_by": null,
+      "used_by": "huzefashk778",
       "used_at": null,
       "universal_hwid": false,
       "reusable": true
