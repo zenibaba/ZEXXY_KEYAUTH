@@ -160,6 +160,14 @@
       "expiry": 1767948097361,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "jabraat",
+      "password": "Nikku@123",
+      "hwid": "V5QP8L9B4NC4BCUEWY6F89FVFJAWRFOH",
+      "expiry": 1767948318434,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -448,11 +456,11 @@
     {
       "key": "ZEXXY-78WR-Z7U8-3YIE",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "FastGen",
       "type": "USER",
       "created_at": "2026-01-01T17:40:09.762Z",
-      "used_by": null,
+      "used_by": "jabraat",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
