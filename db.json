@@ -610,15 +610,5 @@
       "created_at": "2026-01-02T08:49:16.474Z"
     }
   ],
-  "broadcasts": [
-    {
-      "id": "BR-551829",
-      "title": "Notification",
-      "message": "HELLO TEST ZENI",
-      "target": "ALL",
-      "link": null,
-      "created_at": "2026-01-01T11:30:45.615Z",
-      "active": true
-    }
-  ]
+  "broadcasts": []
 }
