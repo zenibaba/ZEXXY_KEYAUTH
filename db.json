@@ -80,6 +80,14 @@
       "expiry": 1767938123999,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "DELTA",
+      "password": "ZEXXY-GTZR-TBE3-JTNT",
+      "hwid": "QXDDMG1QIVAD2XCX9NBXF99BQ9QQXRTR",
+      "expiry": 9999999999999,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -464,11 +472,11 @@
     {
       "key": "ZEXXY-GTZR-TBE3-JTNT",
       "duration_days": "LIFETIME",
-      "status": "UNUSED",
+      "status": "USED",
       "note": "PREMIUM",
       "type": "USER",
       "created_at": "2026-01-02T05:16:03.220Z",
-      "used_by": null,
+      "used_by": "DELTA",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
