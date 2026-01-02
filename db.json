@@ -96,6 +96,14 @@
       "expiry": 9999999999999,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "cray",
+      "password": "yok",
+      "hwid": "DZOPHA9M2SC3YIYXLVJ407IKQ1BGU996",
+      "expiry": 1767940466375,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -144,11 +152,11 @@
     {
       "key": "ZEXXY-3PG0-NCJQ-UF4S",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "MultiDevice",
       "type": "USER",
       "created_at": "2026-01-01T11:12:52.894Z",
-      "used_by": null,
+      "used_by": "cray",
       "used_at": null,
       "universal_hwid": true,
       "reusable": false
