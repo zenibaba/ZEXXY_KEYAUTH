@@ -444,6 +444,18 @@
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
+    },
+    {
+      "key": "ZEXXY-GTZR-TBE3-JTNT",
+      "duration_days": "LIFETIME",
+      "status": "UNUSED",
+      "note": "PREMIUM",
+      "type": "USER",
+      "created_at": "2026-01-02T05:16:03.220Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": false,
+      "reusable": false
     }
   ],
   "broadcasts": [
