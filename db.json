@@ -64,6 +64,14 @@
       "expiry": 1767934719906,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "monu26",
+      "password": "monu26026",
+      "hwid": "VKSCW7I55SQ1Q147SDM4GIJ5PATHKPXZ",
+      "expiry": 1767935916153,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -256,11 +264,11 @@
     {
       "key": "ZEXXY-QSDR-695H-IRW0",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "FastGen",
       "type": "USER",
       "created_at": "2026-01-01T17:39:51.786Z",
-      "used_by": null,
+      "used_by": "monu26",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
