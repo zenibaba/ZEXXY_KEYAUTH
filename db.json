@@ -185,6 +185,15 @@
       "expiry": 1767948852791,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "BEASTxRICH",
+      "password": "BEASTxRICH",
+      "hwid": "RESELLER_DEVICE",
+      "expiry": 0,
+      "rank": "RESELLER",
+      "credits": 1000000,
+      "status": "ACTIVE"
     }
   ],
   "keys": [
