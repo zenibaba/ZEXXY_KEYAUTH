@@ -194,6 +194,15 @@
       "rank": "RESELLER",
       "credits": 1000000,
       "status": "ACTIVE"
+    },
+    {
+      "username": "denismodz",
+      "password": "denis123",
+      "hwid": "EFJ5W8TNC45CZ55XBF710UMT4OIIQU7V",
+      "expiry": 1768234103520,
+      "rank": "USER",
+      "status": "ACTIVE",
+      "key": "ZEXXY-7CBY-ELN6-8U6J"
     }
   ],
   "keys": [
@@ -479,12 +488,12 @@
     {
       "key": "ZEXXY-7CBY-ELN6-8U6J",
       "duration_days": 10,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "22 Forward ",
       "type": "VIP",
       "createdBy": "DENZI",
       "created_at": "2026-01-02T16:00:40.671Z",
-      "used_by": null,
+      "used_by": "denismodz",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
