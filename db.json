@@ -497,6 +497,19 @@
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
+    },
+    {
+      "key": "ZEXXY-TCVU-V8MG-74IT",
+      "duration_days": 7,
+      "status": "UNUSED",
+      "note": "Zeni",
+      "type": "USER",
+      "createdBy": "DENZI",
+      "created_at": "2026-01-02T16:38:30.526Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": false,
+      "reusable": false
     }
   ],
   "broadcasts": [
