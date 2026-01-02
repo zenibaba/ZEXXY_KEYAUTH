@@ -168,6 +168,15 @@
       "expiry": 1767948318434,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "FAIZU",
+      "password": "FAIZU",
+      "hwid": "RESELLER_DEVICE",
+      "expiry": 0,
+      "rank": "RESELLER",
+      "credits": 1000,
+      "status": "ACTIVE"
     }
   ],
   "keys": [
