@@ -203,6 +203,15 @@
       "rank": "USER",
       "status": "ACTIVE",
       "key": "ZEXXY-7CBY-ELN6-8U6J"
+    },
+    {
+      "username": "SASI",
+      "password": "SASIYA",
+      "hwid": "0LPET5EGIJ9G7GKSME6CWJ6TZ1ATVIL1",
+      "expiry": 1767976835001,
+      "rank": "USER",
+      "status": "ACTIVE",
+      "key": "ZEXXY-TCVU-V8MG-74IT"
     }
   ],
   "keys": [
@@ -501,12 +510,12 @@
     {
       "key": "ZEXXY-TCVU-V8MG-74IT",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "Zeni",
       "type": "USER",
       "createdBy": "DENZI",
       "created_at": "2026-01-02T16:38:30.526Z",
-      "used_by": null,
+      "used_by": "SASI",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
