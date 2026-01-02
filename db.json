@@ -524,6 +524,18 @@
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
+    },
+    {
+      "key": "ZEXXY-5UCN-Q7S5-APK8",
+      "duration_days": 7,
+      "status": "UNUSED",
+      "note": "FastGen",
+      "type": "USER",
+      "created_at": "2026-01-02T07:42:14.822Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": false,
+      "reusable": false
     }
   ],
   "broadcasts": [
