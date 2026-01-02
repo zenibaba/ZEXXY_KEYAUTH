@@ -136,6 +136,14 @@
       "expiry": 1767945071176,
       "rank": "USER",
       "status": "ACTIVE"
+    },
+    {
+      "username": "afrankhan",
+      "password": "afran001",
+      "hwid": "U2L4ZYMSUSKH8G2L2BCYJ3GHH828M51N",
+      "expiry": 1767947809730,
+      "rank": "USER",
+      "status": "ACTIVE"
     }
   ],
   "keys": [
@@ -196,11 +204,11 @@
     {
       "key": "ZEXXY-GD22-H9T6-NRAL",
       "duration_days": 7,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "MultiDevice",
       "type": "USER",
       "created_at": "2026-01-01T11:30:46.814Z",
-      "used_by": null,
+      "used_by": "afrankhan",
       "used_at": null,
       "universal_hwid": true,
       "reusable": false
