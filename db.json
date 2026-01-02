@@ -462,6 +462,19 @@
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
+    },
+    {
+      "key": "ZEXXY-IUH4-YCUM-XX10",
+      "duration_days": 7,
+      "status": "UNUSED",
+      "note": "Generated",
+      "type": "USER",
+      "createdBy": "DENZI",
+      "created_at": "2026-01-02T13:25:22.393Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": false,
+      "reusable": false
     }
   ],
   "broadcasts": [
