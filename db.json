@@ -388,6 +388,30 @@
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
+    },
+    {
+      "key": "ZEXXY-F17G-72WG-IUOK",
+      "duration_days": 3,
+      "status": "UNUSED",
+      "note": "Promo",
+      "type": "USER",
+      "created_at": "2026-01-02T04:36:34.023Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": false,
+      "reusable": false
+    },
+    {
+      "key": "ZEXXY-CH4J-XDQ7-C77E",
+      "duration_days": 3,
+      "status": "UNUSED",
+      "note": "Promo",
+      "type": "USER",
+      "created_at": "2026-01-02T04:36:34.023Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": false,
+      "reusable": false
     }
   ],
   "broadcasts": [
