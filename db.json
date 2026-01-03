@@ -192,7 +192,7 @@
       "hwid": "RESELLER_DEVICE",
       "expiry": 0,
       "rank": "RESELLER",
-      "credits": 1000000,
+      "credits": 999999,
       "status": "ACTIVE"
     },
     {
@@ -519,6 +519,13 @@
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
+    },
+    {
+      "key": "ZEXXY-7TXP-0QU9-TIFV",
+      "duration_days": "LIFETIME",
+      "status": "UNUSED",
+      "createdBy": "BEASTxRICH",
+      "created_at": "2026-01-03T07:32:57.549Z"
     }
   ],
   "broadcasts": [
