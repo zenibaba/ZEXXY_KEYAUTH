@@ -212,6 +212,15 @@
       "rank": "USER",
       "status": "ACTIVE",
       "key": "ZEXXY-TCVU-V8MG-74IT"
+    },
+    {
+      "username": "Beast124",
+      "password": "Beastjod",
+      "hwid": "02O23A88301W7P8DB07ZXAZYGLZQ9E5E",
+      "expiry": 9999999999999,
+      "rank": "USER",
+      "status": "ACTIVE",
+      "key": "ZEXXY-7TXP-0QU9-TIFV"
     }
   ],
   "keys": [
@@ -523,9 +532,10 @@
     {
       "key": "ZEXXY-7TXP-0QU9-TIFV",
       "duration_days": "LIFETIME",
-      "status": "UNUSED",
+      "status": "USED",
       "createdBy": "BEASTxRICH",
-      "created_at": "2026-01-03T07:32:57.549Z"
+      "created_at": "2026-01-03T07:32:57.549Z",
+      "used_by": "Beast124"
     }
   ],
   "broadcasts": [
