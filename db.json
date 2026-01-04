@@ -536,6 +536,19 @@
       "createdBy": "BEASTxRICH",
       "created_at": "2026-01-03T07:32:57.549Z",
       "used_by": "Beast124"
+    },
+    {
+      "key": "ZEXXY-01OW-7DGR-W70A",
+      "duration_days": 365,
+      "status": "UNUSED",
+      "note": "Shared",
+      "type": "VIP",
+      "createdBy": "DENZI",
+      "created_at": "2026-01-04T05:21:29.051Z",
+      "used_by": null,
+      "used_at": null,
+      "universal_hwid": false,
+      "reusable": false
     }
   ],
   "broadcasts": [
