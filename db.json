@@ -221,6 +221,15 @@
       "rank": "USER",
       "status": "ACTIVE",
       "key": "ZEXXY-7TXP-0QU9-TIFV"
+    },
+    {
+      "username": "mdsahidalam4455@gmail.com",
+      "password": "Admin@1234",
+      "hwid": "4PL8KMUD43CRPOSD85J9D664FPVQ2IMC",
+      "expiry": 1799040353450,
+      "rank": "USER",
+      "status": "ACTIVE",
+      "key": "ZEXXY-01OW-7DGR-W70A"
     }
   ],
   "keys": [
@@ -540,12 +549,12 @@
     {
       "key": "ZEXXY-01OW-7DGR-W70A",
       "duration_days": 365,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "Shared",
       "type": "VIP",
       "createdBy": "DENZI",
       "created_at": "2026-01-04T05:21:29.051Z",
-      "used_by": null,
+      "used_by": "mdsahidalam4455@gmail.com",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
