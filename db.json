@@ -230,6 +230,15 @@
       "rank": "USER",
       "status": "ACTIVE",
       "key": "ZEXXY-01OW-7DGR-W70A"
+    },
+    {
+      "username": "12",
+      "password": "12",
+      "hwid": "EFJ5W8TNC45CZ55XBF710UMT4OIIQU7V",
+      "expiry": 1768373192665,
+      "rank": "USER",
+      "status": "ACTIVE",
+      "key": "ZEXXY-TBY6-4BRZ-J6NP"
     }
   ],
   "keys": [
@@ -489,12 +498,12 @@
     {
       "key": "ZEXXY-TBY6-4BRZ-J6NP",
       "duration_days": 10,
-      "status": "UNUSED",
+      "status": "USED",
       "note": "Faizaan Gmer",
       "type": "VIP",
       "createdBy": "DENZI",
       "created_at": "2026-01-02T12:26:32.761Z",
-      "used_by": null,
+      "used_by": "12",
       "used_at": null,
       "universal_hwid": false,
       "reusable": false
